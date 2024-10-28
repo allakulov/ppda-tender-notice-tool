@@ -30,6 +30,7 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91703,Renovation Of  DHOs Stores,20000000,642.0,3.0,Works,Nebbi District Local Government,local government,2024-10-08 00:00:00,2024-2025
 91704,Supply of 45 3 Seater Wooden Desks to Kulekule P/S and Nyipir P/S,10260000,642.0,1.0,Supplies,Nebbi District Local Government,local government,2024-10-08 00:00:00,2024-2025
 91705,SUPPLY OF 2 LAPTOP COMPUTERS TO ENGINEERING DEPARTMENT,6000000,642.0,1.0,Supplies,Nebbi District Local Government,local government,2024-10-08 00:00:00,2024-2025
+91825,Supply of Sludge extraction pumps for Water Production Department under the reservation scheme,50000000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-10-08 00:00:00,2024-2025
 91712,SUPPLY OF 135 kVA DIESEL GENERATOR FOR UPGRADE AT MAKINDYE AND MBUYA BOOSTER STATIONS WPD,200000000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-10-07 00:00:00,2024-2025
 91617,SUPPLY OF ASSORTED STATIONERY UNDER RESERVATION SCHEME.,135120384,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-10-07 00:00:00,2024-2025
 91730,Supply and Installation of Air Conditioner for Irec,90372049,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-10-04 00:00:00,2024-2025
@@ -47,6 +48,8 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91739,Upgrade of NIP water system,25000000,478.0,3.0,Works,Uganda Revenue Authority,Accountability,2024-10-01 00:00:00,2024-2025
 91748,SUPPLY OF ASSORTED FITTINGS.,668706000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-10-01 00:00:00,2024-2025
 91800,Supply of tax education racks,12095000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2024-10-01 00:00:00,2024-2025
+91822,SUPPLY OF DEWATERING BELTS FOR NWWTP-SSD UNDER RESERVATION SCHEME.,80000000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-10-01 00:00:00,2024-2025
+91826,Supply of Sand Shot Blasting Rubber Hose Pipe for SSD under the reservation scheme,39400000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-10-01 00:00:00,2024-2025
 91602,SUPPLY OF ASSORTED FITTINGS.,668706000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-10-01 00:00:00,2024-2025
 91604,SUPPLY OF ASSORTED STEEL PIPES UNDER FRAMEWORK CONTRACT FOR A PERIOD OF 18 MONTHS.,8999600000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-10-01 00:00:00,2024-2025
 91605,SUPPLY OF ASSORTED PE & UPVC PIPES UNDER FRAMEWORK CONTRACT FOR A PERIOD OF EIGHTEEN (18) MONTHS.,19337340217,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-10-01 00:00:00,2024-2025
@@ -61,6 +64,7 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91776,SUPPLY OF TRANSFORMER OIL FOR 1600VA TRANSFORMERS AT NWWTP AND KINAWATAKA PLANT,5040000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-09-27 00:00:00,2024-2025
 91789,Supply of 139.7mm*500mm Phosphorous bronze solid rods,54000000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-09-27 00:00:00,2024-2025
 91790,Supply of 1.5kw motors for Kinawataka Plant blowers,9000000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-09-27 00:00:00,2024-2025
+91823,Supply of Electric Four Pole Manual Change Over Switches with Cabinet for WPD-Gaba under Reservation Scheme,39000000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-09-27 00:00:00,2024-2025
 91349,Upgradingof  Bukasa Sentema- Kakiri (12.17km) to paved standards,69309756584,567.0,3.0,Works,Wakiso DLG,District,2024-09-27 00:00:00,2024-2025
 91350,Upgradingof  Kisozi- Kitemu road (4.5km) and Nagalabi Spur (2km),38521259731,567.0,3.0,Works,Wakiso DLG,District,2024-09-27 00:00:00,2024-2025
 91352,Consultancy services for supervision of environment and social safeguards (Upgradingof  Bukasa Sentema- Kakiri (12.17km) to paved standards and Kisozi- Kitemu road (4.5km) and Nagalabi Spur (2km),4207130660,567.0,4.0,Consultancy Services,Wakiso DLG,District,2024-09-27 00:00:00,2024-2025
@@ -130,6 +134,7 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91810,Supply and Delivery of Assorted Dirty Water Surface Mount Water Pumps,53100000,462.0,1.0,Supplies,Uganda Electricity Transmission Company,Energy and Mineral Development,2024-09-03 00:00:00,2024-2025
 91304,"Supply of Office tea utensils, kitchenware and office Equipment under Framework Contract",208500000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2024-09-03 00:00:00,2024-2025
 91816,Supply and Delivery of Assorted Materials for Fabrication of Gratings,33520000,462.0,1.0,Supplies,Uganda Electricity Transmission Company,Energy and Mineral Development,2024-09-03 00:00:00,2024-2025
+91824,Supply of self-priming surface drain pumps for replacement in the plants-WPD under the reservation scheme,7200000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-09-03 00:00:00,2024-2025
 91661,medium Spring construction,37500000,642.0,3.0,Works,Nebbi District Local Government,local government,2024-09-02 00:00:00,2024-2025
 91662,Installation of rain water harvesting system,31500000,642.0,3.0,Works,Nebbi District Local Government,local government,2024-09-02 00:00:00,2024-2025
 91695,"Construction of a Block of 2 Classrooms with Floor tile,door ramp an Office Attached and 10000 litre Water Harvesting Component with Complete Gutter at Nyipir P/S",103000000,642.0,3.0,Works,Nebbi District Local Government,local government,2024-09-02 00:00:00,2024-2025

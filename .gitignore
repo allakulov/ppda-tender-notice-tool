@@ -10,4 +10,4 @@ __pycache__/
 .vscode/
 
 # Ignore requriements 
-requriements.txt
+requirements.txt
