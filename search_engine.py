@@ -47,28 +47,19 @@ class TenderSearchEngine:
             embeddings = pickle.load(f)
         return df, model, embeddings
     
-    def search_tenders(self, query, top_k=5, threshold=0.3):  # Changed from search to search_tenders
-        """Search for tenders"""
+    def search_tenders(self, query, threshold=0.3):
+        """Search for tenders and return all results above threshold"""
         query_embedding = self.model.encode([query])
         similarities = np.dot(self.embeddings, query_embedding.T).squeeze()
         
-        # Filter and sort results
+        # Filter by threshold
         above_threshold = similarities > threshold
         matching_indices = similarities.argsort()
         matching_indices = matching_indices[similarities[matching_indices] > threshold]
-        top_indices = matching_indices[-top_k:][::-1]
+        matching_indices = matching_indices[::-1]  # Sort descending
         
-        print(f"\nSearch results for: '{query}'")
-        print(f"Total matches above threshold {threshold}: {sum(above_threshold)}")
-        print(f"Showing top {min(top_k, len(top_indices))} results:\n")
+        # Create results DataFrame with all matches
+        results_df = self.df.iloc[matching_indices].copy()
+        results_df['similarity_score'] = similarities[matching_indices]
         
-        for idx in top_indices:
-            print(f"\nTitle: {self.df.iloc[idx]['title']}")
-            print(f"Type: {self.df.iloc[idx]['procurement_type']}")
-            print(f"Entity: {self.df.iloc[idx]['entity']}")
-            print(f"Value: {self.df.iloc[idx]['estimatedValue']}")
-            print(f"Year: {self.df.iloc[idx]['financial_year']}")
-            print(f"Deadline: {self.df.iloc[idx]['deadline']}")
-            print("- " * 40)
-        
-        return len(top_indices)
+        return results_df, sum(above_threshold)

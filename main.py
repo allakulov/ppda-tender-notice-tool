@@ -1,6 +1,9 @@
 import logging
 from data_loader import fetch_data, get_stats
 from search_engine import TenderSearchEngine
+import pandas as pd
+from tabulate import tabulate
+
 
 def print_results(results, total_matches):
     """Print search results"""
@@ -55,8 +58,49 @@ def main():
             top_k = int(input("Number of results to show (default 5): ") or "5")
             threshold = float(input("Minimum similarity score 0-1 (default 0.3): ") or "0.3")
             
-            search_engine.search_tenders(query, top_k, threshold)  
+            #  all search results above threshold
+            results_df, total_matches = search_engine.search_tenders(query, threshold=threshold)
             
+            # top_k results initially
+            display_df = results_df.head(top_k)[['entity', 'title', 'sector', 'procurement_type', 'estimatedValue']]
+            
+            print(f"\nSearch results for: '{query}'")
+            print(f"Total matches above threshold {threshold}: {total_matches}")
+            print(f"\nShowing top {top_k} results:")
+            print(tabulate(display_df, headers='keys', tablefmt='grid', showindex=False))
+            
+            # Filter menu 
+            while True:
+                print("\nWould you like to filter these results?")
+                print("1. Filter by procurement type")
+                print("2. Back to main menu")
+                
+                filter_choice = input("\nEnter choice (or press Enter to go back): ")
+                
+                if filter_choice == "1":
+                    types = results_df['procurement_type'].unique()
+                    print("\nAvailable procurement types:")
+                    for i, ptype in enumerate(types, 1):
+                        count = len(results_df[results_df['procurement_type'] == ptype])
+                        print(f"{i}. {ptype} ({count} tenders)")
+                    
+                    type_choice = input("\nSelect procurement type number (or press Enter to go back): ")
+                    if type_choice.strip():
+                        try:
+                            type_idx = int(type_choice) - 1
+                            if 0 <= type_idx < len(types):
+                                filtered_df = results_df[results_df['procurement_type'] == types[type_idx]]
+                                display_df = filtered_df[['entity', 'title', 'sector', 'procurement_type', 'estimatedValue']]
+                                print(f"\nFiltered results for {types[type_idx]}:")
+                                print(tabulate(display_df, headers='keys', tablefmt='grid', showindex=False))
+                            else:
+                                print("Invalid choice")
+                        except ValueError:
+                            print("Please enter a valid number")
+                
+                elif not filter_choice or filter_choice == "2":
+                    break
+
         elif choice == '3':
             if not 'search_engine' in locals():
                 print("Please select a fiscal year first")

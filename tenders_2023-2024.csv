@@ -32,8 +32,10 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91139,Supply of Ryobi Cleaning Cloth,6696500,674.0,1.0,Supplies,NEW VISION PRINTING & PUBLISHING,Public Administration,2024-07-08 00:00:00,2023-2024
 91728,Supply & Delivery of 2 Units of Double Cabin Pick Ups,500000000,739.0,1.0,Supplies,Pride Microfinance Limited,Interest Payments,2024-07-08 00:00:00,2023-2024
 91345,Modification works for head office Block D,236788368,739.0,3.0,Works,Pride Microfinance Limited,Interest Payments,2024-07-08 00:00:00,2023-2024
+91912,Supply and delivery of aggregated stones for Namanve TPP,17321456,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2024-07-05 00:00:00,2023-2024
 90955,"Provision of Support, Maintenance and Upgrade of the checkpoint unified Management Solution",2650000000,478.0,2.0,Non-Consultancy Services,Uganda Revenue Authority,Accountability,2024-07-05 00:00:00,2023-2024
 90291,Supply and Installation of a Multi-functioning Kitchen for the EDIC in Kiruhura District,862000000,698.0,1.0,Supplies,UGANDA NATIONAL COUNCIL OF SCIENCE & TECHNOLOGY,ICT and National Guidance,2024-07-05 00:00:00,2023-2024
+91913,Supply and delivery of communication sensor cables for Namanve Thermal Power Plant,28322000,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2024-07-04 00:00:00,2023-2024
 91153,"SUPPLY AND INSTALLATION OF 80M3 ZINC-ALUM WATER RESERVOIR TANK AT NYARWASHAMA FOR BH No.06 (CoU) KIBANDA-KAMWEZI,RUKIGA AREA UNDER RESERVATION SCHEME",96000000,433.0,3.0,Works,National Water & Sewerage Corporation,Water and Environment,2024-07-04 00:00:00,2023-2024
 90387,Supply of Motor cycles ,18100000,467.0,1.0,Supplies,Insurance Regulatory Authority,"Lands, Housing and Urban Development",2024-07-03 00:00:00,2023-2024
 90388,Supply of Motor cycles ,18100000,467.0,1.0,Supplies,Insurance Regulatory Authority,"Lands, Housing and Urban Development",2024-07-03 00:00:00,2023-2024
@@ -100,6 +102,7 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91134,PROVISION OF SECURITY GUARD SERVICES FOR NWSC AREAS UNDER FRAMEWORK CONTRACT FOR A PERIOD OF THIRTY SIX MONTHS,11951568000,433.0,2.0,Non-Consultancy Services,National Water & Sewerage Corporation,Water and Environment,2024-06-20 00:00:00,2023-2024
 91282,Maintenance of Compound for UCC House Bugolobi,26550000,458.0,3.0,Works,Uganda Communications Commission,ICT and National Guidance,2024-06-19 00:00:00,2023-2024
 90826,"Construction of Steel Gate, Drainage mesh and Chain link at Elegu OSBP",40000000,478.0,3.0,Works,Uganda Revenue Authority,Accountability,2024-06-19 00:00:00,2023-2024
+91858,Supply and delivery of printers,13908584,796.0,1.0,Supplies,Parlimentary Pension Scheme,uncategorised,2024-06-19 00:00:00,2023-2024
 90630,"Dismantling, Relocation and Assembling of Manual Mobile Shelves from Records to Central Registry at URA Tower Basement",80000000,478.0,2.0,Non-Consultancy Services,Uganda Revenue Authority,Accountability,2024-06-18 00:00:00,2023-2024
 91144,Purchase of Furniture for the Institute,60090000,466.0,1.0,Supplies,Uganda Industrial Research Institute,Education,2024-06-18 00:00:00,2023-2024
 91184,Supply of three (03) laptop computer with accessories to UWA-FACE Project,15000000,481.0,1.0,Supplies,Uganda Wildlife Authority,Tourism,2024-06-18 00:00:00,2023-2024
@@ -131,6 +134,7 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91815,Supply and delivery of assorted shaft seal filter spares at Isimba HPP,114939098,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2024-06-13 00:00:00,2023-2024
 90807,Procurement  of Consumables for the EC Auditor Visual Unit,23800000,25.0,1.0,Supplies,Electoral Commission,Public Administration,2024-06-13 00:00:00,2023-2024
 90814,"Supply of cameras, TV & Studio Equipment Repairs & Replacement - Retender",126160000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2024-06-13 00:00:00,2023-2024
+91854,RENOVATION OF TEN STANCE VIP LATRINE FOR BOYS AND GIRLS AT ST. KIZITO PRIMARY SCHOOL,28000000,816.0,3.0,Works,Tororo Municipal Council,uncategorised,2024-06-13 00:00:00,2023-2024
 90836,Air Ticket Service for EC officer for Election Training Course in Accra -Ghana,7700000,25.0,2.0,Non-Consultancy Services,Electoral Commission,Public Administration,2024-06-13 00:00:00,2023-2024
 90841,Supply of Accessories for Audio Visual Unit,22000000,25.0,1.0,Supplies,Electoral Commission,Public Administration,2024-06-13 00:00:00,2023-2024
 91409,Repair Hilux Double Cabin UBE 473X,5546000,427.0,2.0,Non-Consultancy Services,National Forestry Authority,Water and Environment,2024-06-12 00:00:00,2023-2024
@@ -175,6 +179,9 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91819,Supply of Bric-a-brac items for the New leaders orientation program,19250000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2024-06-05 00:00:00,2023-2024
 90796,"Construction of a generator shade at Goli OSBP, Barrier gates and Renovation of motorcycle shade at Padea Customs",52000000,478.0,3.0,Works,Uganda Revenue Authority,Accountability,2024-06-05 00:00:00,2023-2024
 91820,Supply of Bric-a-brac items for the New leaders orientation program,10750000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2024-06-05 00:00:00,2023-2024
+91869,Supply of Bric-a-brac items for the New leader's orientation program,7750000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2024-06-05 00:00:00,2023-2024
+91874,Supply of Bric-a-brac items for the New Leaders orientation program under Lot 1,7750000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2024-06-05 00:00:00,2023-2024
+91875,Supply of Bric-a-brac items for the New Leaders orientation program under Lot 2,12250000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2024-06-05 00:00:00,2023-2024
 91149,Fleet Insurance Comprehensive Stickers,13414517,427.0,1.0,Supplies,National Forestry Authority,Water and Environment,2024-06-04 00:00:00,2023-2024
 91157,Supply and delivery of Customize Invitation cards for (ITU) Global Symposium for regulators GSR 24 Host Country Gala,5600000,458.0,1.0,Supplies,Uganda Communications Commission,ICT and National Guidance,2024-06-04 00:00:00,2023-2024
 91202, Supply of the fleet tyres and tubes,9917580,427.0,1.0,Supplies,National Forestry Authority,Water and Environment,2024-06-04 00:00:00,2023-2024
@@ -186,6 +193,8 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91072,SUPPLY OF PROTECTION AND METERING CONTROL CABLES,75437400,462.0,1.0,Supplies,Uganda Electricity Transmission Company,Energy and Mineral Development,2024-06-04 00:00:00,2023-2024
 90819,Procurement and supply of Fleet Tyres,95312140,427.0,1.0,Supplies,National Forestry Authority,Water and Environment,2024-06-04 00:00:00,2023-2024
 90842,Supply of solar spares for transfer of solar systems from 13 old Districts offices to new Districts offices,59710000,25.0,1.0,Supplies,Electoral Commission,Public Administration,2024-06-04 00:00:00,2023-2024
+91880,Supply and Installation of Servers for EDIC in Kiruhura,192000000,698.0,1.0,Supplies,UGANDA NATIONAL COUNCIL OF SCIENCE & TECHNOLOGY,ICT and National Guidance,2024-06-04 00:00:00,2023-2024
+91882,Procurement of a Network Security Firewall for the ICT Infrastructure at EDIC in Kiruhura,70000000,698.0,1.0,Supplies,UGANDA NATIONAL COUNCIL OF SCIENCE & TECHNOLOGY,ICT and National Guidance,2024-06-04 00:00:00,2023-2024
 90445,"design,Supply and installation of irrigation ugift micro scale irrigation equipment for Jawaimabe Collin",12100000,642.0,3.0,Works,Nebbi District Local Government,local government,2024-06-03 00:00:00,2023-2024
 90446,"design,Supply and installation of irrigation ugift micro scale irrigation equipment for Tekakwo Joshua",14600000,642.0,3.0,Works,Nebbi District Local Government,local government,2024-06-03 00:00:00,2023-2024
 90447,"design,Supply and installation of irrigation ugift micro scale irrigation equipment for Adubango Norbert",24000000,642.0,3.0,Works,Nebbi District Local Government,local government,2024-06-03 00:00:00,2023-2024
@@ -201,6 +210,8 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 90758,Minor repair on Motor Vehicle Reg.f UAJ 379X Isuzu Truck,12042136,427.0,2.0,Non-Consultancy Services,National Forestry Authority,Water and Environment,2024-05-31 00:00:00,2023-2024
 90524,Transparent Display Screen,76915374,26.0,1.0,Supplies,Electricity Regulatory Authority,Energy and Mineral Development,2024-05-31 00:00:00,2023-2024
 91053,Civil Works for the Emergency Restoration of Karuma Bridge along Kampala-Gulu Road,6968291908,474.0,3.0,Works,Uganda National Roads Authority,Works and Transport,2024-05-31 00:00:00,2023-2024
+91849,Consultancy services to undertake audit of information systems,40241775,796.0,4.0,Consultancy Services,Parlimentary Pension Scheme,uncategorised,2024-05-31 00:00:00,2023-2024
+91892,Supply and delivery of torque wrench at Namanve Thermal Power Plant,7300000,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2024-05-31 00:00:00,2023-2024
 90427,Supply of Laboratory Consumables for Microbiology Supplies for the OWSD Project Activities,6800000,418.0,1.0,Supplies,National Agricultural Research Organization,Agriculture,2024-05-30 00:00:00,2023-2024
 91467,Service and Maintenance of specialized UCC Printers (Annual Contracts),20000000,458.0,2.0,Non-Consultancy Services,Uganda Communications Commission,ICT and National Guidance,2024-05-30 00:00:00,2023-2024
 90474,ESG Compliance and Training,90000000,26.0,4.0,Consultancy Services,Electricity Regulatory Authority,Energy and Mineral Development,2024-05-30 00:00:00,2023-2024
@@ -232,6 +243,7 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91031,PROVISION OF ACCOMMODATION AND TRANSPORT SERVICES FOR UGANDA FILM FESTIVAL (2024) JURORS,18000000,458.0,2.0,Non-Consultancy Services,Uganda Communications Commission,ICT and National Guidance,2024-05-27 00:00:00,2023-2024
 90549,REHABILITATION OF BUKEDEA AND WERA MCC,596650000,20.0,3.0,Works,Dairy Development Authority,Agriculture,2024-05-27 00:00:00,2023-2024
 90551,REHABILITATION OF BUKEDEA AND WERA,596650000,20.0,3.0,Works,Dairy Development Authority,Agriculture,2024-05-27 00:00:00,2023-2024
+91900,Supply and installation of furniture in ICT and Finance Office at UEGCL,34590400,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2024-05-27 00:00:00,2023-2024
 91028,provision of banqueting services for the 4th Annual CEO Cyber Security Breakfast,15000000,458.0,2.0,Non-Consultancy Services,Uganda Communications Commission,ICT and National Guidance,2024-05-24 00:00:00,2023-2024
 90550,REHABILITATION OF MBALE FACTORY,558000000,20.0,3.0,Works,Dairy Development Authority,Agriculture,2024-05-24 00:00:00,2023-2024
 91077,"Construction of 6-Unit Accommodation, 2-unit Kitchen and 2-stance Pit Latrine with Bathrooms at Karuma Wildlife reserve within Murchison Falls Conservation Area.",350000000,481.0,3.0,Works,Uganda Wildlife Authority,Tourism,2024-05-24 00:00:00,2023-2024
@@ -252,6 +264,8 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 90754,Spare parts for desktop printers,6000000,25.0,1.0,Supplies,Electoral Commission,Public Administration,2024-05-23 00:00:00,2023-2024
 90509,Procurement of a consultant to carry out Board performance evaluation,12000000,746.0,2.0,Non-Consultancy Services,National Identification & Registration Authority,"Justice, Law and Order",2024-05-23 00:00:00,2023-2024
 90254,Renovation of Lwakhakha Office Building,20000000,478.0,3.0,Works,Uganda Revenue Authority,Accountability,2024-05-23 00:00:00,2023-2024
+91845,construction of 5-stance pit latrine at chamwinula primary school,22000000,816.0,3.0,Works,Tororo Municipal Council,uncategorised,2024-05-23 00:00:00,2023-2024
+91851,CONSTRUCTION OF 5-STANCE PIT LATRINE AT CHAMWINULA PRIMARY SCHOOL,22000000,816.0,3.0,Works,Tororo Municipal Council,uncategorised,2024-05-23 00:00:00,2023-2024
 90319,EIIC ICT Eqt,229616380,386.0,1.0,Supplies,Makerere University Business School,Education,2024-05-23 00:00:00,2023-2024
 90834,Supply of Computer Accessories.,40920000,25.0,1.0,Supplies,Electoral Commission,Public Administration,2024-05-23 00:00:00,2023-2024
 90837,printing and supply of brochures to facilitate conduct of voter education outreach programmes to targetted groups and education institutions,9250000,25.0,1.0,Supplies,Electoral Commission,Public Administration,2024-05-23 00:00:00,2023-2024
@@ -524,6 +538,7 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 89629,Procurement of Three seater Desks To education Department,29000000,600.0,1.0,Supplies,Mbale District Local Government,local government,2024-04-17 00:00:00,2023-2024
 91213,Provision of Consultancy Services for Corporate In-House Graphics Design,36000000,478.0,4.0,Consultancy Services,Uganda Revenue Authority,Accountability,2024-04-17 00:00:00,2023-2024
 90759,Repairs and Maintenance of Motor Vehicle Reg. No.UBE 473X,9381000,427.0,2.0,Non-Consultancy Services,National Forestry Authority,Water and Environment,2024-04-17 00:00:00,2023-2024
+91901,Supply and delivery of heavy fuel oil at Namanve Thermal Power Plant,17296340,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2024-04-17 00:00:00,2023-2024
 91415,Provision of Works for Resurfacing of Parking Area and Access Road at Lugogo 132KV Substation,368118321,462.0,3.0,Works,Uganda Electricity Transmission Company,Energy and Mineral Development,2024-04-16 00:00:00,2023-2024
 90733,Drainage Works along Entebbe S.S Playground Ssese Road Connecting to Mirza,272457339,617.0,3.0,Works,Entebbe Municipal Council,Municipal,2024-04-16 00:00:00,2023-2024
 91247,Supply of Assorted maintenance Items for Kawanda and Mbarara south Transformer movements.,35754640,462.0,1.0,Supplies,Uganda Electricity Transmission Company,Energy and Mineral Development,2024-04-16 00:00:00,2023-2024
@@ -566,7 +581,9 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 90255,Supply of materials for fabricating a Tank Stand,7470000,418.0,1.0,Supplies,National Agricultural Research Organization,Agriculture,2024-04-11 00:00:00,2023-2024
 90258,Repair of MV REG. UAS 479X - KAFACI RICE PROJECT,7156700,418.0,2.0,Non-Consultancy Services,National Agricultural Research Organization,Agriculture,2024-04-11 00:00:00,2023-2024
 90261,Construction of Waterborne Toilet for the Laboratory at the Insectary Block,26306922,418.0,3.0,Works,National Agricultural Research Organization,Agriculture,2024-04-11 00:00:00,2023-2024
+91855,supply and installation of air conditioners,14003797,796.0,1.0,Supplies,Parlimentary Pension Scheme,uncategorised,2024-04-11 00:00:00,2023-2024
 90064,Partitioning works for the NIP Extension Space to accommodate various offices,143016000,478.0,3.0,Works,Uganda Revenue Authority,Accountability,2024-04-11 00:00:00,2023-2024
+91857,Supply and delivery of a camera,10686560,796.0,1.0,Supplies,Parlimentary Pension Scheme,uncategorised,2024-04-11 00:00:00,2023-2024
 89828,procurement of  medical refrigerators and power stabiliser,91450000,394.0,1.0,Supplies,Ministry of Defence,Security,2024-04-11 00:00:00,2023-2024
 91109,Supply of Toner-259,4779000,674.0,1.0,Supplies,NEW VISION PRINTING & PUBLISHING,Public Administration,2024-04-11 00:00:00,2023-2024
 91116,"Collection, handling, transportation and disposal of asbestos sheets from Speke Block and House No 9 Mackay Road",51200000,380.0,2.0,Non-Consultancy Services,Kyambogo University,Education,2024-04-11 00:00:00,2023-2024
@@ -599,6 +616,7 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91278,Instructional materials for the department of Biomedical and Mechatronics Engineering,15000000,380.0,1.0,Supplies,Kyambogo University,Education,2024-04-05 00:00:00,2023-2024
 90526,Supply of Ticketing Machines for Passenger Train Services,24234000,477.0,1.0,Supplies,Uganda Railway Cooperation ,Works and Transport,2024-04-05 00:00:00,2023-2024
 89276,"Design, supply and installation of micro scale irrigation equipment for approved farmers",275846624,624.0,3.0,Works,Kabale District Local Government,local government,2024-04-05 00:00:00,2023-2024
+91865,Consultancy services for Provision of medical services to URA Staff by a private doctor,240000000,478.0,4.0,Consultancy Services,Uganda Revenue Authority,Accountability,2024-04-05 00:00:00,2023-2024
 91114,"Construction of 10-Unit Accommodation, 6-Unit Kitchen and 4- Stance pit latrine with bathrooms at Karangara within BINP",350000000,481.0,3.0,Works,Uganda Wildlife Authority,Tourism,2024-04-05 00:00:00,2023-2024
 90616,Supply of Radio Frequency Identification Tags(RFID) under framework contract,84000000,460.0,1.0,Supplies,Uganda Electricity Distribution Company,Energy and Mineral Development,2024-04-05 00:00:00,2023-2024
 91199,Provision of Hotel Services for the Universal  Postal Union workshop on ppostal security and E-commerce,85000000,458.0,2.0,Non-Consultancy Services,Uganda Communications Commission,ICT and National Guidance,2024-04-04 00:00:00,2023-2024
@@ -633,6 +651,7 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 89513,SUPPLY OF ENGINE OIL SAE 15W40 FOR SERVICING OF NWSC AREA GENERATORS FOR STATIC PLANT,87500000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-04-02 00:00:00,2023-2024
 91054,Procurement of Publicity Materials for National Livestock Census 2021 Dissemination,10900000,456.0,1.0,Supplies,Uganda Bureau of Statistics,Accountability,2024-04-02 00:00:00,2023-2024
 91067,Procurement of Stationery and other Secretarial Materials for National Livestock Census 2021 Dissemination,23250000,456.0,1.0,Supplies,Uganda Bureau of Statistics,Accountability,2024-04-02 00:00:00,2023-2024
+91839,"Supply of 15mm (1/2"") velocity (Multi-Jet) cold water meters under frame work contract for a period of 18 months",5881200000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-04-02 00:00:00,2023-2024
 91084,Procurement of Hotel Services for National Livestock Census 2021 Dissemination,30000000,456.0,2.0,Non-Consultancy Services,Uganda Bureau of Statistics,Accountability,2024-04-02 00:00:00,2023-2024
 90576,"ANNUAL PREVENTIVE & CORRECTIVE MAINTENANCE OF UNEB DESKTOP COMPUTERS, LAPTOPS AND PRINTERS",28013200,472.0,2.0,Non-Consultancy Services,Uganda National Examinations Board,Education,2024-04-02 00:00:00,2023-2024
 90078,Purchase  of laptops,16166000,664.0,1.0,Supplies,INSPECTORATE OF GOVERNMENT,Accountability,2024-04-02 00:00:00,2023-2024
@@ -770,6 +789,7 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91346,SUPPLY OF ASSORTED STATIONERY UNDER FRAMEWORK CONTRACT FOR A PERIOD OF 18 MONTHS.,2000000000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-03-15 00:00:00,2023-2024
 89584,Supply of 100KVA standby generator for Mpangango pump station,94400000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-03-15 00:00:00,2023-2024
 90620,SUPPLY OF HEAVY DUTY MILLING MACHINE AND HEAVY-DUTY SHAPING MACHINE WITH TOOLS FOR WPD MAINTENANCE MACHINE WORKSHOP,260000000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-03-15 00:00:00,2023-2024
+91915,Provision of leased line datalink services for one year at Isimba HPP,100692343,461.0,2.0,Non-Consultancy Services,Uganda Electricity Generation Company,Energy and Mineral Development,2024-03-14 00:00:00,2023-2024
 90658,supply of Assorted Laboratory Reagents,65730000,418.0,1.0,Supplies,National Agricultural Research Organization,Agriculture,2024-03-14 00:00:00,2023-2024
 90414,Assorted stationery under framework,200000000,26.0,1.0,Supplies,Electricity Regulatory Authority,Energy and Mineral Development,2024-03-14 00:00:00,2023-2024
 90416,Videography and Photography under framework,200000000,26.0,2.0,Non-Consultancy Services,Electricity Regulatory Authority,Energy and Mineral Development,2024-03-14 00:00:00,2023-2024
@@ -785,8 +805,10 @@ id,title,estimatedValue,entity_id,procurement_type_id,procurement_type,entity,se
 91062,Procurement Approval of Full Board Accommodation for the UBOS Strategic Vision Retreat,103388060,456.0,2.0,Non-Consultancy Services,Uganda Bureau of Statistics,Accountability,2024-03-14 00:00:00,2023-2024
 90295,ROOFING OF ALUMINIUM SEPARATOR PANEL AT NAMASUBA PUMP HOUSE GABA 1-WPD,23397335,433.0,3.0,Works,National Water & Sewerage Corporation,Water and Environment,2024-03-14 00:00:00,2023-2024
 89277,Annual Maintenance Contract for the Efris Module,9109600,475.0,2.0,Non-Consultancy Services,Uganda Printing & Publishing Corporation,Public Administration,2024-03-14 00:00:00,2023-2024
+91852,Consultancy services to review the governance manual,17500000,796.0,4.0,Consultancy Services,Parlimentary Pension Scheme,uncategorised,2024-03-14 00:00:00,2023-2024
 90858,"Supply,delivery and installation of Medical Equipments for Busia Municipal Council Healthy Centre IV",62613580,749.0,1.0,Supplies,Busia Municipal Council,Municipal,2024-03-14 00:00:00,2023-2024
 88176,Construction of additional facilities at Kakomo Secondary School,850000000,624.0,3.0,Works,Kabale District Local Government,local government,2024-03-13 21:00:00,2023-2024
+91914,Supply and delivery of drainage and dewatering automation spares at Isimba,172800000,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2024-03-13 00:00:00,2023-2024
 90642,Construction Materials for Hybrid solar dryer Phase 2-Tomato -CGS Project,21193000,418.0,1.0,Supplies,National Agricultural Research Organization,Agriculture,2024-03-13 00:00:00,2023-2024
 90643,BUILDING MATERIALS FO CONSTRUCTION OF A SLAB FOR MAIZE SEED STORAGE FACILITY (RUBHALL) AND WATER HARVESTING TANK AT ASWA FARM PRISON,107402300,689.0,1.0,Supplies,UGANDA PRISONS SERVICE,Public Administration,2024-03-13 00:00:00,2023-2024
 89633,"SUPPLY, DELIVERY AND INSTALLATION OF ASSORTED FURNITURE FOR UNEB OFFICERS",120000000,472.0,1.0,Supplies,Uganda National Examinations Board,Education,2024-03-13 00:00:00,2023-2024
@@ -1169,6 +1191,7 @@ building",25495458753,420.0,3.0,Works,National Council for Higher Education,Educ
 90332,Supply of Data Collection Smart phones-Robust Project,28800000,418.0,1.0,Supplies,National Agricultural Research Organization,Agriculture,2024-02-02 00:00:00,2023-2024
 89832,Provision of Lunch for Head Office and Bukoto Staff,270720000,739.0,2.0,Non-Consultancy Services,Pride Microfinance Limited,Interest Payments,2024-02-02 00:00:00,2023-2024
 89321,Procurement of Emergency HDDs for DB Server and Management Server on Production,23720000,746.0,1.0,Supplies,National Identification & Registration Authority,"Justice, Law and Order",2024-02-02 00:00:00,2023-2024
+91906,Provision of water weed control services at Kiira and Nalubaale Power Stations,348000000,461.0,2.0,Non-Consultancy Services,Uganda Electricity Generation Company,Energy and Mineral Development,2024-02-01 00:00:00,2023-2024
 89614,Supply of UPs for server and Laptop for CEO,6250000,479.0,1.0,Supplies,Uganda Tourism Board,Tourism,2024-02-01 00:00:00,2023-2024
 89637,Anti Virus,7100000,479.0,2.0,Non-Consultancy Services,Uganda Tourism Board,Tourism,2024-02-01 00:00:00,2023-2024
 89996,Supply and Installation of Air Conditioning Units for Gulu and Mbarara Regional Offices(Qos),13307000,458.0,1.0,Supplies,Uganda Communications Commission,ICT and National Guidance,2024-02-01 00:00:00,2023-2024
@@ -1319,6 +1342,7 @@ building",25495458753,420.0,3.0,Works,National Council for Higher Education,Educ
 88694,Supply of Walkie Talkies,20000000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2024-01-17 00:00:00,2023-2024
 88244,Procurement of Chairs,4000000,382.0,1.0,Supplies,Uganda Law Reform Commission,"Justice, Law and Order",2024-01-17 00:00:00,2023-2024
 89533,Supply of radiator for Lyantonde Generator under reservation scheme,17700000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-01-17 00:00:00,2023-2024
+91837,Supply of Polymers for Gaba and Lyantonde,7785263004,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-01-17 00:00:00,2023-2024
 89793,SUPPLY AND DELIVERY OF ASSORTED HPLC ANALYTICAL COLUMNS,38632,424.0,1.0,Supplies,National Drug Authority,Health,2024-01-17 00:00:00,2023-2024
 89804,Repair of Suspension for UAJ 773X,6435099,456.0,2.0,Non-Consultancy Services,Uganda Bureau of Statistics,Accountability,2024-01-17 00:00:00,2023-2024
 90839,CONSTRUCTION OF A FOUR STANCE LINED VIP LATRINE AT MOLO HC3 UNDER DDEG-EU,23000000,566.0,3.0,Works,Tororo District Local Government,local government,2024-01-17 00:00:00,2023-2024
@@ -1357,6 +1381,7 @@ building",25495458753,420.0,3.0,Works,National Council for Higher Education,Educ
 89821,Procurement of Secure Socket Layer Certificate (SSL) For Web Applications,10000000,456.0,1.0,Supplies,Uganda Bureau of Statistics,Accountability,2024-01-15 00:00:00,2023-2024
 91106,"80 SETS OF RIDING GEARS, GLOVES, ELBOW GUARDS AND KNEE GUARDS FOR POLICE FLEET MANAGEMENT",32968000,713.0,1.0,Supplies,UGANDA POLICE FORCE,"Justice, Law and Order",2024-01-15 00:00:00,2023-2024
 88818,Furniture and fixtures,30580000,467.0,1.0,Supplies,Insurance Regulatory Authority,"Lands, Housing and Urban Development",2024-01-15 00:00:00,2023-2024
+91933,Supply of tyres at UEGCL,215000000,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2024-01-12 00:00:00,2023-2024
 88100,Supply of Headphones under Framework Contract,65000000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2024-01-12 00:00:00,2023-2024
 88868,Preventive Maintenance and Servicing of URA Air Conditioners under Framework Contract,216000000,478.0,2.0,Non-Consultancy Services,Uganda Revenue Authority,Accountability,2024-01-12 00:00:00,2023-2024
 90151,PROCUREMENT OF PROTECTIVE EQUIPMENT FOR UPDAF,138750000,394.0,1.0,Supplies,Ministry of Defence,Security,2024-01-12 00:00:00,2023-2024
@@ -1404,6 +1429,7 @@ building",25495458753,420.0,3.0,Works,National Council for Higher Education,Educ
 89741,Provision of medical insurance services to PPS staff,152343750,796.0,2.0,Non-Consultancy Services,Parlimentary Pension Scheme,uncategorised,2024-01-08 00:00:00,2023-2024
 89234,Supply and delivery of Paediatric Cath-Lab Sundries,99183054,464.0,1.0,Supplies,Uganda Heart Institute,Health,2024-01-08 00:00:00,2023-2024
 89534,"Supply,Install,Test and Commission of 48,000Btu/Hour Air Conditioners for IREC under Reservation Scheme",176999999,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2024-01-08 00:00:00,2023-2024
+91853,Consultacy service to supply digital workspace solution,287817000,796.0,4.0,Consultancy Services,Parlimentary Pension Scheme,uncategorised,2024-01-08 00:00:00,2023-2024
 91286,Supply of Assorted Marketing Promotional Materials,118000000,481.0,1.0,Supplies,Uganda Wildlife Authority,Tourism,2024-01-05 00:00:00,2023-2024
 90559,Design and printing of assorted marketing promotional materials,118000000,481.0,1.0,Supplies,Uganda Wildlife Authority,Tourism,2024-01-05 00:00:00,2023-2024
 88551,supply of Umbrellas,13950000,467.0,1.0,Supplies,Insurance Regulatory Authority,"Lands, Housing and Urban Development",2024-01-05 00:00:00,2023-2024
@@ -1472,6 +1498,7 @@ building",25495458753,420.0,3.0,Works,National Council for Higher Education,Educ
 91361,Provision of Cleaning services at the URA Tower and Masaka Office under Framework Contract,720000000,478.0,2.0,Non-Consultancy Services,Uganda Revenue Authority,Accountability,2023-12-20 00:00:00,2023-2024
 91365,Provision of cleaning services at the URA Tower and URA Masaka Office under Framework Contract,815000000,478.0,2.0,Non-Consultancy Services,Uganda Revenue Authority,Accountability,2023-12-20 00:00:00,2023-2024
 89322,Vehicle Tracking Subscription Renewal,24000000,746.0,2.0,Non-Consultancy Services,National Identification & Registration Authority,"Justice, Law and Order",2023-12-20 00:00:00,2023-2024
+91921,Supply of IT equipment at UEGCL,9029000,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2023-12-19 21:00:00,2023-2024
 89616,Staff Insurance,288000000,479.0,2.0,Non-Consultancy Services,Uganda Tourism Board,Tourism,2023-12-19 00:00:00,2023-2024
 91154,"Supply and delivery of Sixty - six (66) Mobile Tablet Devices,Six (6) Multiple Tablet charging station cases and seven (7) Mobile Phones.",250000000,458.0,1.0,Supplies,Uganda Communications Commission,ICT and National Guidance,2023-12-19 00:00:00,2023-2024
 89879,PROCUREMENT OF STORAGE CONTAINERS AND GENERATORS FOR MP AND 305,136441351,394.0,1.0,Supplies,Ministry of Defence,Security,2023-12-19 00:00:00,2023-2024
@@ -1668,6 +1695,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 88284,SUPPLY AND DELIVERY OF COLOURED PRINTERS FOR THE DIRECTOR EXAMINATIONS AND DIRECTOR HR&A,10000000,472.0,1.0,Supplies,Uganda National Examinations Board,Education,2023-12-06 00:00:00,2023-2024
 90351,PROCUREMENT AND INSTALLATION OF A THIRD PARTY INTERFACE APPLICATION FOR NIRA-IRMIS CONNECTIVITY,149850000,394.0,2.0,Non-Consultancy Services,Ministry of Defence,Security,2023-12-06 00:00:00,2023-2024
 89866,Design & Installation of Fire Suppression System at Head Office,141600000,462.0,1.0,Supplies,Uganda Electricity Transmission Company,Energy and Mineral Development,2023-12-05 00:00:00,2023-2024
+91920,Provision of security services for head office and maziba,31200000,461.0,2.0,Non-Consultancy Services,Uganda Electricity Generation Company,Energy and Mineral Development,2023-12-05 00:00:00,2023-2024
 89909,External Cleaning of Statistics House,54000780,456.0,4.0,Consultancy Services,Uganda Bureau of Statistics,Accountability,2023-12-05 00:00:00,2023-2024
 88119,Hotel services for stake holders engagement meeting ion the implementation of Agri-led project interventions,9086000,417.0,2.0,Non-Consultancy Services,National Agricultural Advisory Services,Agriculture,2023-12-05 00:00:00,2023-2024
 89456,Provision of Entertainment services for UCC @25 End of Year Party,30000000,458.0,2.0,Non-Consultancy Services,Uganda Communications Commission,ICT and National Guidance,2023-12-05 00:00:00,2023-2024
@@ -1691,6 +1719,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 89578,Supply of 12m3/HR replacement submersiblepump end for Kiganda borehole No.1,6372000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2023-12-04 00:00:00,2023-2024
 89580,"Supply of 2inch,3inch for Rukiga and Hoima",24037200,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2023-12-04 00:00:00,2023-2024
 90606,Supply of rams and SSD server,13563,674.0,1.0,Supplies,NEW VISION PRINTING & PUBLISHING,Public Administration,2023-12-04 00:00:00,2023-2024
+91908,"Design, manufacture, test at factory and supply of generator rotor poles for Nalubaale and Kiira Power Stations",4446240000,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2023-12-01 00:00:00,2023-2024
 88353,Supply and Installation of UPS under Framework Contract,894999990,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2023-12-01 00:00:00,2023-2024
 89394,"Supply of office chairs and desks for academic staff in the new block, LAW",75600000,385.0,1.0,Supplies,Makerere University,Education,2023-12-01 00:00:00,2023-2024
 89395,Procurement of lecture room chairs for the new building at School of Law,72000000,385.0,1.0,Supplies,Makerere University,Education,2023-12-01 00:00:00,2023-2024
@@ -1864,6 +1893,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 90113,Supply of Microphone Accessories,500000,674.0,1.0,Supplies,NEW VISION PRINTING & PUBLISHING,Public Administration,2023-11-17 00:00:00,2023-2024
 88585,Supply and delivery of a stand by Generator for NDA Soroti Office,45645566,424.0,1.0,Supplies,National Drug Authority,Health,2023-11-17 00:00:00,2023-2024
 89877,Printing and supply of branded round neck T-shirts,9444000,424.0,1.0,Supplies,National Drug Authority,Health,2023-11-17 00:00:00,2023-2024
+91934,Supply of electrical illumination materials,103950000,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2023-11-17 00:00:00,2023-2024
 90143,PROCUREMENT OF LAPTOPS AND DESKTOP COMPUTERS,84310000,394.0,1.0,Supplies,Ministry of Defence,Security,2023-11-17 00:00:00,2023-2024
 88126,Return Air Tickets from Entebbe to India,15420400,417.0,2.0,Non-Consultancy Services,National Agricultural Advisory Services,Agriculture,2023-11-17 00:00:00,2023-2024
 87916,Supply of Branded Promotional Items for the ‘’MPA E-Receipt Yange’’ Campaign,120660000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2023-11-17 00:00:00,2023-2024
@@ -1884,6 +1914,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 88537,Procurement of Assorted Office Stationery and Toner,199889000,622.0,1.0,Supplies,Uganda Road Fund,Works and Transport,2023-11-17 00:00:00,2023-2024
 89063,VENUE FOR STAKEHOLDER TRAINING,7857900,647.0,2.0,Non-Consultancy Services,Capital Markets Authority,Public Administration,2023-11-17 00:00:00,2023-2024
 89326,Supply and Delivery of Branded UCDA Staff Corporate wear,13500000,457.0,1.0,Supplies,Uganda Coffee Development Authority,Agriculture,2023-11-17 00:00:00,2023-2024
+91917,"Design, manufacture, test, supply and installation of 132 Kv Bushing for transformer for Kiira Power Station",348285405,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2023-11-16 00:00:00,2023-2024
 88871,"SUPPLY, DELIVERY AND INSTALLATION OF UPS BATTERY BANK FOR NTINDA DATA CENTRE",100000000,472.0,1.0,Supplies,Uganda National Examinations Board,Education,2023-11-16 00:00:00,2023-2024
 88642,Procurement of Printers,9440000,14.0,1.0,Supplies,Butabika Hospital,Health,2023-11-16 00:00:00,2023-2024
 89675,"Supply, Delivery and Installation of and Electrical Safety Analyser (LOT 1) and MRI Contrast Medium and MRI Films",66000000,14.0,1.0,Supplies,Butabika Hospital,Health,2023-11-16 00:00:00,2023-2024
@@ -1932,6 +1963,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 89597,Car hire for Audit exercise,17841600,479.0,2.0,Non-Consultancy Services,Uganda Tourism Board,Tourism,2023-11-15 00:00:00,2023-2024
 89861,SUPPLY OF 120SQMM COPPER CLADDED EARTH CONDUCTOR FOR TORORO MAIN SUBSTATION,188800000,462.0,1.0,Supplies,Uganda Electricity Transmission Company,Energy and Mineral Development,2023-11-14 00:00:00,2023-2024
 89868,Replacement of a Faulty 33kV 8DB10 Switchgear Bay at Namanve Substation - Retender,565037000,462.0,1.0,Supplies,Uganda Electricity Transmission Company,Energy and Mineral Development,2023-11-14 00:00:00,2023-2024
+91926,Refurbishment of the hydro fire fighting system for Namanve,91100000,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2023-11-14 00:00:00,2023-2024
 90397,Furniture and Fittings.,151739910,26.0,1.0,Supplies,Electricity Regulatory Authority,Energy and Mineral Development,2023-11-14 00:00:00,2023-2024
 88350,Slash weeding in Mbarara; 300ha,45000000,427.0,1.0,Supplies,National Forestry Authority,Water and Environment,2023-11-14 00:00:00,2023-2024
 88352,Slash weeding in Mbarara; 300ha,45000000,427.0,2.0,Non-Consultancy Services,National Forestry Authority,Water and Environment,2023-11-14 00:00:00,2023-2024
@@ -2029,6 +2061,8 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 89600,Press Conference branding,15700000,479.0,2.0,Non-Consultancy Services,Uganda Tourism Board,Tourism,2023-11-08 00:00:00,2023-2024
 88846,"Corporate Marketing Agency for Corporate Marketing, Events & Experiential Management, Company & Product Identity as well as Establish a Nation-Wide Network of Mobility Clubs in Uganda",195000000,806.0,4.0,Consultancy Services,Kiira Motors Corporation,uncategorised,2023-11-08 00:00:00,2023-2024
 88852,"Supply of Ordnary Portland Cement for Civil Works in plants, Reservoirs and Boosters, WPD",5310000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2023-11-08 00:00:00,2023-2024
+91930,Facilitation of executive management engagement at UEGCL,10000000,461.0,4.0,Consultancy Services,Uganda Electricity Generation Company,Energy and Mineral Development,2023-11-08 00:00:00,2023-2024
+91932,Purchase of station wagon for Isimba HPP,255000000,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2023-11-08 00:00:00,2023-2024
 89127,Supply of Tyres For UAA 872F and UBD 176P,15800000,456.0,1.0,Supplies,Uganda Bureau of Statistics,Accountability,2023-11-08 00:00:00,2023-2024
 89133,Supply of Tyres for UBK 788K,7600000,456.0,1.0,Supplies,Uganda Bureau of Statistics,Accountability,2023-11-08 00:00:00,2023-2024
 88111,COLLECTION OF UCE AND UACE EXAMS,172500000,472.0,2.0,Non-Consultancy Services,Uganda National Examinations Board,Education,2023-11-08 00:00:00,2023-2024
@@ -2095,6 +2129,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 88534,Provision of Preventive Maintenance and Routine Servicing of the Lift System Under a Frame work Contract,37760000,622.0,2.0,Non-Consultancy Services,Uganda Road Fund,Works and Transport,2023-11-06 00:00:00,2023-2024
 89306,Procurement of Printing Paper for the Production of Migration A&D Cards,26360000,456.0,1.0,Supplies,Uganda Bureau of Statistics,Accountability,2023-11-06 00:00:00,2023-2024
 90607,Hire of venue for toto kids festival 2023,10000000,674.0,2.0,Non-Consultancy Services,NEW VISION PRINTING & PUBLISHING,Public Administration,2023-11-06 00:00:00,2023-2024
+91902,Riverbank Restoration works at Nalubaale and Kiira Power Stations,1450680000,461.0,3.0,Works,Uganda Electricity Generation Company,Energy and Mineral Development,2023-11-06 00:00:00,2023-2024
 88577,SUPPLY OF MECHANICAL SEAL/SHAFT SEAL CR/N32-150 HQQE FOR REPLACEMENT ON BOOSTER PUMP SETS WPD-GABA,23600000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2023-11-03 00:00:00,2023-2024
 91393,Slash weeding of 500ha in different CFRs in Mwenge,75000000,427.0,2.0,Non-Consultancy Services,National Forestry Authority,Water and Environment,2023-11-03 00:00:00,2023-2024
 88579,SUPPLY OF BEARING HYDRAULIC PULLER FOR KATOSI PLANT-WPD,23600000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2023-11-03 00:00:00,2023-2024
@@ -2194,6 +2229,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 88767,Supply of the tyres for Iveco Truck UG 1973S-Mpigi,8968000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2023-10-31 00:00:00,2023-2024
 89305,"Supply, Installation and testing of standby Generator to Livestock Experimental station (LES)",190000000,736.0,1.0,Supplies,National Animal Generic Resource Centre And Data Bank,Agriculture,2023-10-31 00:00:00,2023-2024
 89066,"supply, delivery, installation and commissioning of time management attendance system for Makerere University",460000000,385.0,1.0,Supplies,Makerere University,Education,2023-10-31 00:00:00,2023-2024
+91885,Individual Consultants to develop and install the National Electronic Acess & Benefit sharing (ABS) permit management systems for Uganda,40920000,698.0,4.0,Consultancy Services,UGANDA NATIONAL COUNCIL OF SCIENCE & TECHNOLOGY,ICT and National Guidance,2023-10-31 00:00:00,2023-2024
 89360,Procurement of Plastic Chairs,74970000,746.0,1.0,Supplies,National Identification & Registration Authority,"Justice, Law and Order",2023-10-30 00:00:00,2023-2024
 89171,Renovation works at Plot No 357 Shimanzi,5700000,476.0,3.0,Works,Uganda Property Holdings,Public Administration,2023-10-30 00:00:00,2023-2024
 88714,Procurement of a Biometric access control system for UDC,10000000,684.0,1.0,Supplies,UGANDA DEVELOPMENT CORPORATION,Public Administration,2023-10-30 00:00:00,2023-2024
@@ -2225,6 +2261,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 88759,Procurement of consultancy services to undertake an Impact Assessment of Mpanga Growers Tea Factory Ltd,160000000,684.0,4.0,Consultancy Services,UGANDA DEVELOPMENT CORPORATION,Public Administration,2023-10-27 00:00:00,2023-2024
 88533,"Design, Supply and Delivery of Branded Items for ARMFA Exco Meeting",112277000,622.0,1.0,Supplies,Uganda Road Fund,Works and Transport,2023-10-27 00:00:00,2023-2024
 90083,RENEWAL OF UHRC SOPHOS LICENSE,16000000,465.0,2.0,Non-Consultancy Services,Uganda Human Rights Commission,"Justice, Law and Order",2023-10-27 00:00:00,2023-2024
+91890,"Procurement of Laptops computers for EDCTP SERCEA, ACCESS Africa and ABS Projects",43100000,698.0,1.0,Supplies,UGANDA NATIONAL COUNCIL OF SCIENCE & TECHNOLOGY,ICT and National Guidance,2023-10-27 00:00:00,2023-2024
 88819,Procurement of consultancy services to conduct an impact assessment for Mpanga Growers Tea Factory,160000000,684.0,4.0,Consultancy Services,UGANDA DEVELOPMENT CORPORATION,Public Administration,2023-10-27 00:00:00,2023-2024
 88821,Procurement of consultancy services to assess the Impact of Mabale Growers Tea Factory Ltd,160000000,684.0,4.0,Consultancy Services,UGANDA DEVELOPMENT CORPORATION,Public Administration,2023-10-27 00:00:00,2023-2024
 88829,Supply and installation of a solar power backup system for Chief Magistrates Court Kiryandongo,66626576,19.0,3.0,Works,Courts of Judicature,"Justice, Law and Order",2023-10-27 00:00:00,2023-2024
@@ -2354,6 +2391,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 89869,Computer Supplies & ICT Hardware Improvement,18620400,838.0,1.0,Supplies,Kawempe National Referral Hospital,uncategorised,2023-10-18 00:00:00,2023-2024
 89870,Property Management Expenses; Cleaning services,18600000,838.0,2.0,Non-Consultancy Services,Kawempe National Referral Hospital,uncategorised,2023-10-18 00:00:00,2023-2024
 89871,"Medical, Laboratory & Research & Appliances Acquisition",46020000,838.0,2.0,Non-Consultancy Services,Kawempe National Referral Hospital,uncategorised,2023-10-18 00:00:00,2023-2024
+91919,Environment and social audit for Namanve TPP,70000000,461.0,4.0,Consultancy Services,Uganda Electricity Generation Company,Energy and Mineral Development,2023-10-18 00:00:00,2023-2024
 89878,Emergency Reconstruction of Ssezibwa Bridge (1.6km) along KAlagi-Kayunga Road under Design and Build,60108954320,474.0,3.0,Works,Uganda National Roads Authority,Works and Transport,2023-10-18 00:00:00,2023-2024
 89886,Provision of Media and PR Media Management services,166500000,463.0,2.0,Non-Consultancy Services,Uganda Exports Promotions Board,Trade and Industry,2023-10-18 00:00:00,2023-2024
 87862,One Off Preventive Maintenance of Air Conditioners,7000000,478.0,2.0,Non-Consultancy Services,Uganda Revenue Authority,Accountability,2023-10-18 00:00:00,2023-2024
@@ -2457,6 +2495,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 89743,Consultancy services for a tax health review,19757625,796.0,4.0,Consultancy Services,Parlimentary Pension Scheme,uncategorised,2023-10-11 00:00:00,2023-2024
 89233,Supply of Bulk Filing Unit,25000000,475.0,1.0,Supplies,Uganda Printing & Publishing Corporation,Public Administration,2023-10-11 00:00:00,2023-2024
 90296,Supply of Toner for canon Commercial Printer,20768000,475.0,1.0,Supplies,Uganda Printing & Publishing Corporation,Public Administration,2023-10-11 00:00:00,2023-2024
+91903,Supply and delivery of alternator air cooler nests at Nalubaale Power Station,1955017904,461.0,1.0,Supplies,Uganda Electricity Generation Company,Energy and Mineral Development,2023-10-11 00:00:00,2023-2024
 88832,Supply and installation of an automatic solar power backup system for Kiruhura Chief Magistrates Court,66916620,19.0,3.0,Works,Courts of Judicature,"Justice, Law and Order",2023-10-10 00:00:00,2023-2024
 88065,SUPPLY AND DELIVERY OF ART MATTE PAPERS FOR PRINTERY,34720000,472.0,1.0,Supplies,Uganda National Examinations Board,Education,2023-10-10 00:00:00,2023-2024
 90116,PROCUREMENT OF CARPENTRY MATERIALS FOR PRODUCTION OF FURNITURE FOR SALE,94980000,689.0,1.0,Supplies,UGANDA PRISONS SERVICE,Public Administration,2023-10-10 00:00:00,2023-2024
@@ -2551,6 +2590,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 89543,"Design of Gashereganyi water supply in Kanaba S/C and Kaarukara water source in Igari Village, Kirundo S/C",37200000,528.0,4.0,Consultancy Services,Kisoro District Local Government,local government,2023-09-29 00:00:00,2023-2024
 87765,"Construction of a fence, verification Bay, Dinning Shelter and Renovation Storage Container at Busitema Checkpoint",180000000,478.0,2.0,Non-Consultancy Services,Uganda Revenue Authority,Accountability,2023-09-29 00:00:00,2023-2024
 89568,Repair of the main printer,13570000,479.0,2.0,Non-Consultancy Services,Uganda Tourism Board,Tourism,2023-09-29 00:00:00,2023-2024
+91873,Supply and Installation of an additional transformers for NSTEIC Site in Kiruhura District,611000000,698.0,1.0,Supplies,UGANDA NATIONAL COUNCIL OF SCIENCE & TECHNOLOGY,ICT and National Guidance,2023-09-29 00:00:00,2023-2024
 87780,"siting, drilling, pump testing and installation of boreholes",112983755,600.0,2.0,Non-Consultancy Services,Mbale District Local Government,local government,2023-09-29 00:00:00,2023-2024
 89576,Procurement of a creative agency to design Explore Uganda artworks for selected sites at Entebbe International Airport,20000000,479.0,2.0,Non-Consultancy Services,Uganda Tourism Board,Tourism,2023-09-29 00:00:00,2023-2024
 87793,Supply Engine oil SAE15W40 for servicing of NWSC generators - static plant,8750000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2023-09-29 00:00:00,2023-2024
@@ -2808,6 +2848,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 88950,Provision of Meals during World Food Day Celebrations(General),9540000,418.0,2.0,Non-Consultancy Services,National Agricultural Research Organization,Agriculture,2023-09-08 00:00:00,2023-2024
 87671,SUPPLY OF MILD STEEL WELDING RODS GAUGE 10 FOR TANK REPAIRS FOR STATIC PLANT UNDER RESERVATION SCHEME,8496000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2023-09-08 00:00:00,2023-2024
 87711,Repairs for the Faulty suspension system for MV UAR 522Y,9800000,477.0,2.0,Non-Consultancy Services,Uganda Railway Cooperation ,Works and Transport,2023-09-08 00:00:00,2023-2024
+91871,Provision of Cleaning services for TIBIC,192000000,698.0,2.0,Non-Consultancy Services,UGANDA NATIONAL COUNCIL OF SCIENCE & TECHNOLOGY,ICT and National Guidance,2023-09-08 00:00:00,2023-2024
 87786,SUPPLY OF ASSORTED IT EQUIPMENT'S FOR INVENTORY DEPARTMENT UNDER RESERVATION SCHEME,28910000,433.0,1.0,Supplies,National Water & Sewerage Corporation,Water and Environment,2023-09-08 00:00:00,2023-2024
 90869,"Supply, delivery and installation, user training and commissioning of other Equipment for Busia Municipal Council Health Centre III(Sofia)Under UgIFT LOT33",140488000,749.0,1.0,Supplies,Busia Municipal Council,Municipal,2023-09-08 00:00:00,2023-2024
 90637,SPARE PARTS FOR UG0104U TATA LORRY,12105000,689.0,1.0,Supplies,UGANDA PRISONS SERVICE,Public Administration,2023-09-07 00:00:00,2023-2024
@@ -2819,6 +2860,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 87694,Procurement of Document Scanners for NII Stations,32400000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2023-09-07 00:00:00,2023-2024
 87712,Supply and delivery of Archival boxes,17700000,424.0,1.0,Supplies,National Drug Authority,Health,2023-09-07 00:00:00,2023-2024
 87737,Printing and Supply of Laboratory Logbooks and Registers.,5746000,424.0,1.0,Supplies,National Drug Authority,Health,2023-09-07 00:00:00,2023-2024
+91866,Procurement of 4 Uninterrupted UPS for TIBIC,46800000,698.0,1.0,Supplies,UGANDA NATIONAL COUNCIL OF SCIENCE & TECHNOLOGY,ICT and National Guidance,2023-09-07 00:00:00,2023-2024
 87789,"Supply of Promotional items for ISSP CRM Engagement (Branded Shirts/Blouses, T-Shirts and Gift Sets)",41000000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2023-09-07 00:00:00,2023-2024
 87790,"Supply of Promotional items for ISSP CRM Engagement (Branded Shirts/Blouses, T-Shirts and Gift Sets)",17500000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2023-09-07 00:00:00,2023-2024
 87791,"Supply of Promotional items for ISSP CRM Engagements (Branded Notebooks, Mouse pad, Pull up banner and Brochures)",37500000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2023-09-07 00:00:00,2023-2024
@@ -2952,6 +2994,7 @@ performance report",7000000,420.0,1.0,Supplies,National Council for Higher Educa
 90712,PROCUREMENT OF REPAIR OF UG 0099U PICK UP,10675000,689.0,2.0,Non-Consultancy Services,UGANDA PRISONS SERVICE,Public Administration,2023-08-28 00:00:00,2023-2024
 90742,REPAIR OF UG 0350 U TOYOTA PRADO.,5900028,689.0,2.0,Non-Consultancy Services,UGANDA PRISONS SERVICE,Public Administration,2023-08-28 00:00:00,2023-2024
 87685,Supply of an LCD Display Screen,23600000,478.0,1.0,Supplies,Uganda Revenue Authority,Accountability,2023-08-28 00:00:00,2023-2024
+91863,Provision of Technical Interior Design Services for TIBIC Block in Namanve,66000000,698.0,2.0,Non-Consultancy Services,UGANDA NATIONAL COUNCIL OF SCIENCE & TECHNOLOGY,ICT and National Guidance,2023-08-28 00:00:00,2023-2024
 88810,Procurement of a back up internet link,19500000,453.0,1.0,Supplies,Uganda AIDS Commission,Health,2023-08-28 00:00:00,2023-2024
 90893,Supply and Installation of Solar Street Lights,2960000000,602.0,3.0,Works,Soroti Municipality,Municipal,2023-08-25 00:00:00,2023-2024
 88337,Dean of Students (Student's activities),11682000,386.0,1.0,Supplies,Makerere University Business School,Education,2023-08-25 00:00:00,2023-2024
