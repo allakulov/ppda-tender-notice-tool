@@ -4,6 +4,7 @@ from sentence_transformers import SentenceTransformer
 import numpy as np
 import pickle
 import logging
+from sentence_transformers import util
 
 class TenderSearchEngine:
     def __init__(self, content=None, year="2024-2025"):
@@ -48,21 +49,30 @@ class TenderSearchEngine:
         with open(f'embeddings_{self.year}.pkl', 'rb') as f:
             embeddings = pickle.load(f)
         return df, model, embeddings
-    
+
+
     def search_tenders(self, query, threshold=0.3):
-        """Search for tenders and return all results above threshold"""
-        query_embedding = self.model.encode([query],
-                                            normalize_embeddings=True)
-        similarities = np.dot(self.embeddings, query_embedding.T).squeeze()
+        """Search for tenders using semantic search and return results above threshold"""
         
-        # Filter by threshold
-        above_threshold = similarities > threshold
-        matching_indices = similarities.argsort()
-        matching_indices = matching_indices[similarities[matching_indices] > threshold]
-        matching_indices = matching_indices[::-1]  # Sort descending
-        
-        # Create results DataFrame with all matches
+        query_embedding = self.model.encode([query], convert_to_tensor=True)
+
+        top_k = len(self.embeddings)
+
+        hits = util.semantic_search(
+            query_embedding, 
+            self.embeddings, 
+            top_k=top_k, 
+            score_function=util.dot_score
+        )[0]  
+
+        # apply threshold
+        results = [hit for hit in hits if hit['score'] >= threshold]
+
+        # get matching tenders
+        matching_indices = [hit['corpus_id'] for hit in results]
+        scores = [hit['score'] for hit in results]
+
         results_df = self.df.iloc[matching_indices].copy()
-        results_df['similarity_score'] = similarities[matching_indices]
-        
-        return results_df, sum(above_threshold)
+        results_df['similarity_score'] = scores
+
+        return results_df, len(results_df)

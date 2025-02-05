@@ -62,7 +62,7 @@ def main():
             results_df, total_matches = search_engine.search_tenders(query, threshold=threshold)
             
             # top_k results initially
-            display_df = results_df.head(top_k)[['entity', 'title', 'sector', 'procurement_type', 'estimatedValue']]
+            display_df = results_df.head(top_k)[['entity', 'title', 'sector', 'procurement_type', 'similarity_score']]
             
             print(f"\nSearch results for: '{query}'")
             print(f"Total matches above threshold {threshold}: {total_matches}")
