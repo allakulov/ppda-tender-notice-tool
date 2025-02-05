@@ -33,7 +33,9 @@ class TenderSearchEngine:
             axis=1
         )
         
-        embeddings = model.encode(df['combined_text'].tolist(), show_progress_bar=True)
+        embeddings = model.encode(df['combined_text'].tolist(), 
+                                  show_progress_bar=True, 
+                                  normalize_embeddings=True)
         with open(f'embeddings_{self.year}.pkl', 'wb') as f:
             pickle.dump(embeddings, f)
             
@@ -49,7 +51,8 @@ class TenderSearchEngine:
     
     def search_tenders(self, query, threshold=0.3):
         """Search for tenders and return all results above threshold"""
-        query_embedding = self.model.encode([query])
+        query_embedding = self.model.encode([query],
+                                            normalize_embeddings=True)
         similarities = np.dot(self.embeddings, query_embedding.T).squeeze()
         
         # Filter by threshold
